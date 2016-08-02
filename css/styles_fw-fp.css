@@ -1,0 +1,25 @@
+body {
+  background-color: 	#338099;
+}
+
+h1 {
+  font-size: 48;
+  font-family: fantasy;
+  font-weight: bolder;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 24px;
+  line-height: 48px;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
